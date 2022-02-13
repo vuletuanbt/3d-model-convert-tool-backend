@@ -6,8 +6,6 @@ MySQL 8
 
 # Installation
 
-## Backend: https://github.com/vuletuanbt/3d-model-convert-tool-backend
-
 - Start your MySQL
 - Change config in .env
 
@@ -54,5 +52,5 @@ npm run seed:run
 # ****Running the app****
 
 ```bash
-npm run start:prod
+npm run start:dev
 ```
